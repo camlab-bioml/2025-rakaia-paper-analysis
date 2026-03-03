@@ -1,0 +1,5 @@
+*.tif
+*.tiff
+*zarr/
+*.txt
+.ipynb_checkpoints/
