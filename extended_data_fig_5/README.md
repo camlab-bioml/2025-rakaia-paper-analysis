@@ -1,6 +1,6 @@
-# Extended Data Figure 4
+# Extended Data Figure 5
 
-The code and files here can reproduce Extended Data Figure 4 of the rakaia paper. 
+The code and files here can reproduce Extended Data Figure 5 of the rakaia paper. 
 
 To recreate the gating histogram plots, simply execute `histogram_gating_ztma26_70.R`, 
 and modify the appropriate threshold in the code for each sub-panel A through D. This file 

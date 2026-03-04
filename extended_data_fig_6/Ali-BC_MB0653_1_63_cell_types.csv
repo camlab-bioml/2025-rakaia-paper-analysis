@@ -1,0 +1,1698 @@
+cell_id,cluster,leiden
+1,luminal epithelial 3,24
+2,epithelial,22
+3,luminal epithelial 3,0
+4,immune,8
+5,epithelial,4
+6,epithelial,8
+7,luminal epithelial 3,8
+8,epithelial,2
+9,proliferating epithelial,11
+10,luminal epithelial 3,22
+11,epithelial,8
+12,basal epithelial 1,11
+13,luminal epithelial 2,0
+14,luminal epithelial 2,0
+15,fibroblasts,2
+16,epithelial,1
+17,epithelial,19
+18,luminal epithelial 2,7
+19,epithelial,4
+20,luminal epithelial 2,13
+21,GATA3+ epithelial,16
+22,luminal epithelial 2,16
+23,epithelial,10
+24,proliferating epithelial,13
+25,epithelial,10
+26,GATA3+ epithelial,13
+27,luminal epithelial 3,15
+28,luminal epithelial 2,0
+29,t cells,0
+30,GATA3+ epithelial,0
+31,proliferating epithelial,0
+32,epithelial,18
+33,luminal epithelial 2,16
+34,GATA3+ epithelial,13
+35,proliferating epithelial,4
+36,GATA3+ epithelial,0
+37,luminal epithelial 2,22
+38,epithelial,11
+39,luminal epithelial 2,1
+40,fibroblasts,9
+41,basal epithelial 1,16
+42,stromal 1,7
+43,epithelial,15
+44,luminal epithelial 2,1
+45,luminal epithelial 2,13
+46,fibroblasts,2
+47,basal epithelial 1,15
+48,epithelial,22
+49,luminal epithelial 2,0
+50,epithelial,4
+51,proliferating epithelial,0
+52,epithelial,17
+53,proliferating epithelial,0
+54,proliferating epithelial,4
+55,epithelial,0
+56,epithelial,19
+57,proliferating epithelial,13
+58,luminal epithelial 2,0
+59,GATA3+ epithelial,0
+60,hypoxic cells,5
+61,epithelial,11
+62,epithelial,17
+63,GATA3+ epithelial,11
+64,GATA3+ epithelial,0
+65,luminal epithelial 2,4
+66,luminal epithelial 2,17
+67,luminal epithelial 2,0
+68,GATA3+ epithelial,4
+69,luminal epithelial 2,13
+70,luminal epithelial 2,16
+71,luminal epithelial 2,17
+72,epithelial,11
+73,luminal epithelial 2,11
+74,epithelial,7
+75,luminal epithelial 2,13
+76,GATA3+ epithelial,13
+77,luminal epithelial 2,8
+78,luminal epithelial 2,16
+79,immune,1
+80,hypoxic cells,22
+81,epithelial,0
+82,luminal epithelial 2,0
+83,proliferating epithelial,22
+84,basal epithelial 1,4
+85,GATA3+ epithelial,0
+86,luminal epithelial 2,2
+87,proliferating epithelial,16
+88,luminal epithelial 3,10
+89,epithelial,11
+90,proliferating epithelial,13
+91,hypoxic cells,2
+92,luminal epithelial 2,10
+93,apoptotic epithelial 1,9
+94,epithelial,0
+95,t cells,1
+96,luminal epithelial 2,14
+97,luminal epithelial 2,2
+98,hypoxic cells,22
+99,basal epithelial 1,8
+100,luminal epithelial 1,8
+101,apoptotic epithelial 1,11
+102,epithelial,12
+103,GATA3+ epithelial,13
+104,luminal epithelial 2,4
+105,epithelial,4
+106,proliferating epithelial,0
+107,proliferating epithelial,0
+108,epithelial,14
+109,t cells,2
+110,proliferating epithelial,15
+111,luminal epithelial 1,16
+112,proliferating epithelial,11
+113,luminal epithelial 2,7
+114,epithelial,22
+115,epithelial,22
+116,stromal 1,4
+117,luminal epithelial 2,19
+118,proliferating epithelial,0
+119,GATA3+ epithelial,18
+120,luminal epithelial 2,7
+121,luminal epithelial 2,16
+122,hypoxic cells,2
+123,hypoxic cells,13
+124,luminal epithelial 3,22
+125,proliferating epithelial,18
+126,luminal epithelial 2,8
+127,proliferating epithelial,1
+128,epithelial,22
+129,luminal epithelial 1,22
+130,proliferating epithelial,13
+131,epithelial,5
+132,GATA3+ epithelial,13
+133,epithelial,22
+134,proliferating epithelial,7
+135,luminal epithelial 3,11
+136,immune,0
+137,stromal 1,4
+138,luminal epithelial 2,13
+139,luminal epithelial 2,1
+140,stromal 1,2
+141,luminal epithelial 2,7
+142,luminal epithelial 2,13
+143,luminal epithelial 2,23
+144,luminal epithelial 2,0
+145,luminal epithelial 2,11
+146,stromal 1,1
+147,proliferating epithelial,22
+148,luminal epithelial 2,15
+149,epithelial,7
+150,stromal 2,0
+151,GATA3+ epithelial,22
+152,luminal epithelial 2,3
+153,luminal epithelial 2,17
+154,luminal epithelial 2,14
+155,immune,0
+156,luminal epithelial 2,1
+157,luminal epithelial 2,4
+158,proliferating epithelial,9
+159,proliferating epithelial,3
+160,luminal epithelial 2,2
+161,stromal 1,13
+162,stromal 2,14
+163,epithelial,18
+164,luminal epithelial 1,13
+165,luminal epithelial 2,13
+166,luminal epithelial 2,1
+167,stromal 1,0
+168,apoptotic epithelial 1,4
+169,GATA3+ epithelial,8
+170,luminal epithelial 2,14
+171,luminal epithelial 2,13
+172,luminal epithelial 3,8
+173,luminal epithelial 2,9
+174,luminal epithelial 2,7
+175,GATA3+ epithelial,16
+176,apoptotic epithelial 1,16
+177,proliferating epithelial,16
+178,luminal epithelial 2,4
+179,luminal epithelial 3,1
+180,epithelial,2
+181,epithelial,4
+182,luminal epithelial 2,2
+183,luminal epithelial 2,13
+184,epithelial,0
+185,immune,1
+186,luminal epithelial 3,8
+187,GATA3+ epithelial,22
+188,immune,0
+189,luminal epithelial 2,13
+190,luminal epithelial 2,7
+191,GATA3+ epithelial,14
+192,epithelial,1
+193,t cells,7
+194,GATA3+ epithelial,0
+195,proliferating epithelial,22
+196,luminal epithelial 2,13
+197,luminal epithelial 2,1
+198,immune,2
+199,proliferating epithelial,22
+200,luminal epithelial 2,0
+201,stromal 1,2
+202,epithelial,16
+203,GATA3+ epithelial,1
+204,luminal epithelial 3,4
+205,luminal epithelial 2,5
+206,luminal epithelial 3,8
+207,proliferating epithelial,14
+208,stromal 1,4
+209,proliferating epithelial,7
+210,GATA3+ epithelial,16
+211,stromal 1,1
+212,t cells,7
+213,proliferating epithelial,4
+214,GATA3+ epithelial,0
+215,t cells,13
+216,proliferating epithelial,16
+217,fibroblasts,18
+218,luminal epithelial 3,16
+219,luminal epithelial 2,1
+220,stromal 3,1
+221,proliferating epithelial,7
+222,GATA3+ epithelial,0
+223,GATA3+ epithelial,4
+224,immune,8
+225,proliferating epithelial,0
+226,GATA3+ epithelial,2
+227,epithelial,0
+228,luminal epithelial 2,22
+229,immune,13
+230,luminal epithelial 2,4
+231,immune,13
+232,luminal epithelial 2,13
+233,luminal epithelial 2,1
+234,epithelial,2
+235,luminal epithelial 2,2
+236,stromal 1,14
+237,luminal epithelial 2,2
+238,luminal epithelial 2,1
+239,basal epithelial 1,11
+240,t cells,0
+241,luminal epithelial 2,22
+242,immune,11
+243,GATA3+ epithelial,4
+244,GATA3+ epithelial,13
+245,GATA3+ epithelial,5
+246,stromal 1,1
+247,proliferating epithelial,0
+248,immune,0
+249,luminal epithelial 3,1
+250,luminal epithelial 3,17
+251,immune,1
+252,stromal 1,22
+253,luminal epithelial 2,16
+254,t cells,11
+255,GATA3+ epithelial,1
+256,GATA3+ epithelial,0
+257,GATA3+ epithelial,13
+258,luminal epithelial 2,15
+259,fibroblasts,19
+260,proliferating epithelial,2
+261,stromal 1,2
+262,fibroblasts,11
+263,GATA3+ epithelial,8
+264,GATA3+ epithelial,22
+265,proliferating epithelial,0
+266,t cells,16
+267,t cells,1
+268,luminal epithelial 2,13
+269,luminal epithelial 2,4
+270,proliferating epithelial,8
+271,luminal epithelial 2,1
+272,GATA3+ epithelial,0
+273,luminal epithelial 3,4
+274,luminal epithelial 3,16
+275,luminal epithelial 2,13
+276,t cells,13
+277,luminal epithelial 2,22
+278,proliferating epithelial,22
+279,luminal epithelial 2,13
+280,luminal epithelial 2,5
+281,luminal epithelial 2,1
+282,proliferating epithelial,13
+283,luminal epithelial 2,13
+284,fibroblasts,7
+285,luminal epithelial 2,0
+286,luminal epithelial 3,22
+287,luminal epithelial 2,9
+288,basal epithelial 1,1
+289,epithelial,1
+290,epithelial,22
+291,proliferating epithelial,1
+292,GATA3+ epithelial,0
+293,GATA3+ epithelial,0
+294,t cells,8
+295,hypoxic cells,1
+296,luminal epithelial 3,7
+297,basal epithelial 1,4
+298,stromal 2,9
+299,luminal epithelial 3,8
+300,luminal epithelial 3,4
+301,luminal epithelial 2,22
+302,stromal 1,22
+303,immune,1
+304,luminal epithelial 1,8
+305,luminal epithelial 3,14
+306,stromal 2,22
+307,stromal 1,1
+308,proliferating epithelial,0
+309,stromal 3,13
+310,luminal epithelial 3,13
+311,luminal epithelial 3,1
+312,epithelial,22
+313,luminal epithelial 2,11
+314,t cells,1
+315,GATA3+ epithelial,16
+316,proliferating epithelial,11
+317,luminal epithelial 3,22
+318,luminal epithelial 3,1
+319,GATA3+ epithelial,1
+320,proliferating epithelial,13
+321,proliferating epithelial,0
+322,proliferating epithelial,7
+323,luminal epithelial 2,0
+324,GATA3+ epithelial,13
+325,stromal 1,22
+326,epithelial,1
+327,proliferating epithelial,13
+328,t cells,1
+329,luminal epithelial 2,0
+330,GATA3+ epithelial,14
+331,luminal epithelial 3,22
+332,luminal epithelial 2,13
+333,t cells,13
+334,proliferating epithelial,19
+335,proliferating epithelial,13
+336,luminal epithelial 2,16
+337,luminal epithelial 1,8
+338,GATA3+ epithelial,0
+339,GATA3+ epithelial,1
+340,GATA3+ epithelial,3
+341,GATA3+ epithelial,14
+342,luminal epithelial 2,8
+343,stromal 1,0
+344,stromal 1,6
+345,GATA3+ epithelial,3
+346,proliferating epithelial,22
+347,stromal 1,4
+348,stromal 1,0
+349,proliferating epithelial,13
+350,luminal epithelial 3,13
+351,proliferating epithelial,16
+352,epithelial,2
+353,proliferating epithelial,13
+354,stromal 3,2
+355,GATA3+ epithelial,0
+356,GATA3+ epithelial,0
+357,stromal 1,1
+358,luminal epithelial 3,14
+359,stromal 1,18
+360,t cells,3
+361,epithelial,25
+362,proliferating epithelial,0
+363,luminal epithelial 1,16
+364,luminal epithelial 2,11
+365,luminal epithelial 2,13
+366,luminal epithelial 3,22
+367,GATA3+ epithelial,22
+368,immune,13
+369,GATA3+ epithelial,7
+370,hypoxic cells,1
+371,GATA3+ epithelial,22
+372,GATA3+ epithelial,1
+373,immune,0
+374,GATA3+ epithelial,13
+375,GATA3+ epithelial,13
+376,luminal epithelial 3,2
+377,luminal epithelial 3,0
+378,luminal epithelial 1,22
+379,luminal epithelial 2,4
+380,stromal 1,8
+381,luminal epithelial 1,22
+382,GATA3+ epithelial,0
+383,GATA3+ epithelial,2
+384,proliferating epithelial,2
+385,luminal epithelial 3,11
+386,GATA3+ epithelial,0
+387,stromal 2,3
+388,luminal epithelial 3,13
+389,stromal 1,0
+390,immune,1
+391,immune,0
+392,t cells,7
+393,proliferating epithelial,22
+394,luminal epithelial 2,13
+395,luminal epithelial 2,19
+396,GATA3+ epithelial,18
+397,immune,17
+398,proliferating epithelial,0
+399,GATA3+ epithelial,13
+400,proliferating epithelial,13
+401,GATA3+ epithelial,2
+402,luminal epithelial 2,11
+403,luminal epithelial 1,22
+404,immune,2
+405,luminal epithelial 3,1
+406,stromal 1,2
+407,luminal epithelial 2,13
+408,GATA3+ epithelial,1
+409,luminal epithelial 2,4
+410,t cells,3
+411,GATA3+ epithelial,1
+412,proliferating epithelial,13
+413,luminal epithelial 3,13
+414,GATA3+ epithelial,13
+415,luminal epithelial 2,1
+416,immune,0
+417,luminal epithelial 2,1
+418,GATA3+ epithelial,0
+419,GATA3+ epithelial,13
+420,GATA3+ epithelial,3
+421,immune,1
+422,GATA3+ epithelial,0
+423,GATA3+ epithelial,1
+424,proliferating epithelial,22
+425,proliferating epithelial,4
+426,luminal epithelial 1,22
+427,luminal epithelial 3,7
+428,fibroblasts,0
+429,immune,1
+430,immune,0
+431,stromal 3,1
+432,GATA3+ epithelial,15
+433,GATA3+ epithelial,13
+434,stromal 1,2
+435,luminal epithelial 3,1
+436,proliferating epithelial,16
+437,luminal epithelial 2,7
+438,luminal epithelial 2,0
+439,hypoxic cells,2
+440,GATA3+ epithelial,13
+441,proliferating epithelial,2
+442,luminal epithelial 2,0
+443,GATA3+ epithelial,1
+444,luminal epithelial 3,2
+445,proliferating epithelial,0
+446,proliferating epithelial,13
+447,proliferating epithelial,11
+448,GATA3+ epithelial,22
+449,apoptotic epithelial 1,22
+450,immune,1
+451,luminal epithelial 3,16
+452,immune,16
+453,luminal epithelial 3,0
+454,immune,3
+455,stromal 1,0
+456,proliferating epithelial,0
+457,proliferating epithelial,16
+458,stromal 1,1
+459,GATA3+ epithelial,0
+460,GATA3+ epithelial,1
+461,luminal epithelial 3,1
+462,stromal 1,1
+463,proliferating epithelial,4
+464,immune,1
+465,epithelial,2
+466,GATA3+ epithelial,1
+467,GATA3+ epithelial,13
+468,immune,13
+469,proliferating epithelial,1
+470,stromal 1,4
+471,epithelial,1
+472,hypoxic cells,25
+473,luminal epithelial 3,8
+474,GATA3+ epithelial,1
+475,hypoxic cells,0
+476,proliferating epithelial,16
+477,apoptotic epithelial 1,13
+478,immune,13
+479,luminal epithelial 3,2
+480,proliferating epithelial,0
+481,proliferating epithelial,11
+482,immune,23
+483,basal epithelial 1,22
+484,hypoxic cells,1
+485,hypoxic cells,2
+486,stromal 3,22
+487,luminal epithelial 3,14
+488,GATA3+ epithelial,22
+489,proliferating epithelial,1
+490,immune,13
+491,immune,2
+492,stromal 1,2
+493,basal epithelial 1,1
+494,epithelial,2
+495,luminal epithelial 3,1
+496,luminal epithelial 3,1
+497,t cells,3
+498,proliferating epithelial,0
+499,luminal epithelial 3,2
+500,luminal epithelial 3,0
+501,t cells,0
+502,epithelial,2
+503,luminal epithelial 3,2
+504,luminal epithelial 1,0
+505,GATA3+ epithelial,3
+506,luminal epithelial 1,12
+507,proliferating epithelial,22
+508,luminal epithelial 3,7
+509,t cells,0
+510,stromal 1,1
+511,apoptotic epithelial 2,5
+512,luminal epithelial 1,2
+513,epithelial,1
+514,proliferating epithelial,22
+515,proliferating epithelial,0
+516,luminal epithelial 1,15
+517,t cells,3
+518,immune,1
+519,luminal epithelial 1,1
+520,proliferating epithelial,13
+521,stromal 1,22
+522,luminal epithelial 3,0
+523,proliferating epithelial,4
+524,proliferating epithelial,17
+525,luminal epithelial 3,19
+526,GATA3+ epithelial,0
+527,luminal epithelial 3,1
+528,luminal epithelial 2,22
+529,GATA3+ epithelial,22
+530,immune,0
+531,GATA3+ epithelial,4
+532,GATA3+ epithelial,1
+533,GATA3+ epithelial,3
+534,luminal epithelial 1,16
+535,immune,2
+536,luminal epithelial 3,8
+537,apoptotic epithelial 2,1
+538,epithelial,2
+539,proliferating epithelial,13
+540,luminal epithelial 2,15
+541,GATA3+ epithelial,2
+542,luminal epithelial 1,13
+543,GATA3+ epithelial,0
+544,stromal 1,1
+545,luminal epithelial 3,5
+546,GATA3+ epithelial,2
+547,stromal 1,4
+548,GATA3+ epithelial,14
+549,GATA3+ epithelial,13
+550,luminal epithelial 2,7
+551,luminal epithelial 2,4
+552,stromal 2,8
+553,immune,25
+554,immune,11
+555,luminal epithelial 2,22
+556,immune,3
+557,luminal epithelial 3,0
+558,luminal epithelial 2,1
+559,GATA3+ epithelial,0
+560,apoptotic epithelial 1,12
+561,epithelial,1
+562,luminal epithelial 3,0
+563,immune,3
+564,immune,0
+565,proliferating epithelial,16
+566,immune,1
+567,proliferating epithelial,13
+568,proliferating epithelial,3
+569,GATA3+ epithelial,13
+570,stromal 1,1
+571,luminal epithelial 3,22
+572,basal epithelial 1,0
+573,fibroblasts,22
+574,luminal epithelial 2,8
+575,t cells,2
+576,proliferating epithelial,22
+577,luminal epithelial 2,14
+578,luminal epithelial 3,13
+579,luminal epithelial 3,0
+580,luminal epithelial 1,0
+581,proliferating epithelial,13
+582,proliferating epithelial,22
+583,luminal epithelial 2,14
+584,stromal 1,1
+585,luminal epithelial 3,16
+586,luminal epithelial 2,16
+587,luminal epithelial 3,17
+588,immune,1
+589,apoptotic epithelial 1,1
+590,GATA3+ epithelial,0
+591,luminal epithelial 1,1
+592,apoptotic epithelial 1,1
+593,immune,0
+594,GATA3+ epithelial,1
+595,luminal epithelial 2,10
+596,GATA3+ epithelial,13
+597,luminal epithelial 1,3
+598,immune,16
+599,stromal 3,7
+600,luminal epithelial 2,2
+601,GATA3+ epithelial,13
+602,stromal 1,1
+603,luminal epithelial 1,1
+604,GATA3+ epithelial,1
+605,GATA3+ epithelial,1
+606,luminal epithelial 1,1
+607,stromal 2,2
+608,luminal epithelial 2,8
+609,immune,0
+610,proliferating epithelial,2
+611,proliferating epithelial,3
+612,GATA3+ epithelial,4
+613,GATA3+ epithelial,1
+614,luminal epithelial 2,0
+615,GATA3+ epithelial,1
+616,luminal epithelial 1,1
+617,luminal epithelial 1,13
+618,proliferating epithelial,0
+619,luminal epithelial 2,22
+620,GATA3+ epithelial,3
+621,stromal 2,5
+622,GATA3+ epithelial,0
+623,proliferating epithelial,22
+624,luminal epithelial 2,1
+625,luminal epithelial 2,8
+626,proliferating epithelial,13
+627,GATA3+ epithelial,2
+628,luminal epithelial 1,3
+629,proliferating epithelial,7
+630,luminal epithelial 3,1
+631,GATA3+ epithelial,3
+632,luminal epithelial 2,5
+633,luminal epithelial 1,1
+634,proliferating epithelial,8
+635,apoptotic epithelial 2,3
+636,immune,13
+637,luminal epithelial 1,1
+638,immune,3
+639,luminal epithelial 1,1
+640,immune,13
+641,luminal epithelial 2,0
+642,hypoxic cells,3
+643,GATA3+ epithelial,3
+644,GATA3+ epithelial,7
+645,proliferating epithelial,14
+646,proliferating epithelial,0
+647,immune,0
+648,luminal epithelial 3,1
+649,luminal epithelial 3,7
+650,immune,1
+651,GATA3+ epithelial,8
+652,fibroblasts,9
+653,GATA3+ epithelial,13
+654,GATA3+ epithelial,3
+655,luminal epithelial 3,2
+656,luminal epithelial 3,8
+657,luminal epithelial 1,2
+658,apoptotic epithelial 2,0
+659,luminal epithelial 2,1
+660,apoptotic epithelial 2,12
+661,luminal epithelial 1,0
+662,luminal epithelial 3,0
+663,proliferating epithelial,22
+664,GATA3+ epithelial,3
+665,GATA3+ epithelial,3
+666,proliferating epithelial,1
+667,proliferating epithelial,13
+668,proliferating epithelial,1
+669,GATA3+ epithelial,1
+670,hypoxic cells,14
+671,luminal epithelial 1,7
+672,apoptotic epithelial 2,10
+673,GATA3+ epithelial,13
+674,GATA3+ epithelial,8
+675,immune,1
+676,immune,1
+677,proliferating epithelial,3
+678,basal epithelial 1,17
+679,GATA3+ epithelial,14
+680,luminal epithelial 1,22
+681,luminal epithelial 3,16
+682,apoptotic epithelial 2,3
+683,GATA3+ epithelial,3
+684,luminal epithelial 1,13
+685,luminal epithelial 1,13
+686,stromal 3,8
+687,stromal 2,2
+688,epithelial,22
+689,GATA3+ epithelial,0
+690,luminal epithelial 1,0
+691,GATA3+ epithelial,13
+692,luminal epithelial 2,13
+693,proliferating epithelial,13
+694,GATA3+ epithelial,13
+695,luminal epithelial 3,13
+696,GATA3+ epithelial,13
+697,luminal epithelial 1,0
+698,GATA3+ epithelial,25
+699,apoptotic epithelial 2,1
+700,GATA3+ epithelial,1
+701,apoptotic epithelial 2,5
+702,GATA3+ epithelial,5
+703,GATA3+ epithelial,1
+704,luminal epithelial 1,3
+705,luminal epithelial 1,1
+706,luminal epithelial 3,22
+707,luminal epithelial 3,1
+708,PR+ epithelial,8
+709,stromal 1,2
+710,luminal epithelial 1,2
+711,epithelial,25
+712,stromal 1,0
+713,proliferating epithelial,1
+714,GATA3+ epithelial,5
+715,luminal epithelial 3,3
+716,luminal epithelial 1,0
+717,luminal epithelial 1,0
+718,immune,0
+719,luminal epithelial 1,3
+720,basal epithelial 1,16
+721,apoptotic epithelial 1,13
+722,proliferating epithelial,0
+723,proliferating epithelial,11
+724,proliferating epithelial,13
+725,proliferating epithelial,13
+726,luminal epithelial 1,3
+727,luminal epithelial 1,1
+728,GATA3+ epithelial,13
+729,proliferating epithelial,16
+730,GATA3+ epithelial,5
+731,GATA3+ epithelial,1
+732,proliferating epithelial,5
+733,proliferating epithelial,3
+734,GATA3+ epithelial,1
+735,luminal epithelial 2,17
+736,immune,1
+737,GATA3+ epithelial,12
+738,proliferating epithelial,25
+739,GATA3+ epithelial,2
+740,luminal epithelial 2,22
+741,luminal epithelial 1,22
+742,GATA3+ epithelial,1
+743,proliferating epithelial,22
+744,luminal epithelial 1,13
+745,luminal epithelial 1,1
+746,luminal epithelial 3,0
+747,luminal epithelial 2,9
+748,luminal epithelial 1,14
+749,luminal epithelial 1,1
+750,luminal epithelial 1,1
+751,immune,3
+752,GATA3+ epithelial,3
+753,luminal epithelial 2,0
+754,luminal epithelial 2,2
+755,proliferating epithelial,2
+756,immune,13
+757,luminal epithelial 1,22
+758,immune,3
+759,proliferating epithelial,4
+760,GATA3+ epithelial,2
+761,luminal epithelial 3,5
+762,luminal epithelial 1,22
+763,stromal 3,16
+764,immune,2
+765,luminal epithelial 1,13
+766,GATA3+ epithelial,1
+767,luminal epithelial 1,13
+768,luminal epithelial 1,0
+769,proliferating epithelial,13
+770,apoptotic epithelial 2,1
+771,luminal epithelial 1,0
+772,immune,2
+773,luminal epithelial 1,14
+774,luminal epithelial 1,1
+775,GATA3+ epithelial,1
+776,b cells,2
+777,proliferating epithelial,0
+778,stromal 3,1
+779,apoptotic epithelial 1,4
+780,luminal epithelial 3,2
+781,luminal epithelial 3,1
+782,luminal epithelial 1,13
+783,GATA3+ epithelial,1
+784,GATA3+ epithelial,0
+785,luminal epithelial 2,8
+786,luminal epithelial 3,4
+787,hypoxic cells,2
+788,proliferating epithelial,3
+789,luminal epithelial 3,3
+790,stromal 1,14
+791,immune,3
+792,t cells,14
+793,luminal epithelial 2,1
+794,luminal epithelial 1,2
+795,luminal epithelial 1,1
+796,luminal epithelial 1,8
+797,GATA3+ epithelial,16
+798,t cells,5
+799,immune,1
+800,luminal epithelial 1,13
+801,apoptotic epithelial 1,2
+802,immune,1
+803,luminal epithelial 1,0
+804,GATA3+ epithelial,1
+805,GATA3+ epithelial,13
+806,apoptotic epithelial 1,0
+807,proliferating epithelial,0
+808,GATA3+ epithelial,2
+809,fibroblasts,3
+810,GATA3+ epithelial,14
+811,immune,25
+812,luminal epithelial 3,0
+813,proliferating epithelial,13
+814,GATA3+ epithelial,0
+815,hypoxic cells,2
+816,luminal epithelial 3,13
+817,immune,8
+818,proliferating epithelial,0
+819,luminal epithelial 2,2
+820,luminal epithelial 1,0
+821,luminal epithelial 1,1
+822,GATA3+ epithelial,3
+823,GATA3+ epithelial,1
+824,luminal epithelial 3,13
+825,stromal 1,2
+826,GATA3+ epithelial,11
+827,proliferating epithelial,0
+828,luminal epithelial 3,13
+829,immune,1
+830,GATA3+ epithelial,3
+831,luminal epithelial 3,14
+832,stromal 1,1
+833,immune,0
+834,stromal 3,2
+835,luminal epithelial 3,1
+836,luminal epithelial 1,1
+837,stromal 3,1
+838,luminal epithelial 1,13
+839,GATA3+ epithelial,14
+840,PR+ epithelial,7
+841,luminal epithelial 1,1
+842,immune,0
+843,luminal epithelial 1,0
+844,proliferating epithelial,0
+845,luminal epithelial 1,1
+846,luminal epithelial 3,1
+847,GATA3+ epithelial,1
+848,luminal epithelial 3,9
+849,GATA3+ epithelial,1
+850,luminal epithelial 1,2
+851,stromal 1,5
+852,proliferating epithelial,14
+853,GATA3+ epithelial,13
+854,luminal epithelial 3,22
+855,luminal epithelial 3,1
+856,proliferating epithelial,1
+857,luminal epithelial 3,0
+858,GATA3+ epithelial,13
+859,immune,2
+860,stromal 1,2
+861,luminal epithelial 3,1
+862,GATA3+ epithelial,1
+863,immune,9
+864,immune,2
+865,immune,0
+866,luminal epithelial 1,3
+867,luminal epithelial 3,0
+868,GATA3+ epithelial,2
+869,t cells,5
+870,luminal epithelial 3,5
+871,proliferating epithelial,14
+872,proliferating epithelial,25
+873,GATA3+ epithelial,1
+874,luminal epithelial 3,1
+875,stromal 3,2
+876,stromal 1,7
+877,stromal 1,7
+878,luminal epithelial 3,13
+879,GATA3+ epithelial,5
+880,luminal epithelial 3,2
+881,GATA3+ epithelial,5
+882,GATA3+ epithelial,0
+883,proliferating epithelial,1
+884,immune,1
+885,GATA3+ epithelial,8
+886,immune,3
+887,luminal epithelial 1,0
+888,luminal epithelial 3,22
+889,proliferating epithelial,16
+890,immune,1
+891,proliferating epithelial,16
+892,apoptotic epithelial 2,8
+893,GATA3+ epithelial,0
+894,immune,13
+895,immune,3
+896,proliferating epithelial,16
+897,GATA3+ epithelial,0
+898,basal epithelial 1,1
+899,immune,3
+900,proliferating epithelial,22
+901,luminal epithelial 3,0
+902,GATA3+ epithelial,0
+903,proliferating epithelial,13
+904,luminal epithelial 3,3
+905,hypoxic cells,2
+906,stromal 1,2
+907,luminal epithelial 3,13
+908,proliferating epithelial,8
+909,GATA3+ epithelial,16
+910,GATA3+ epithelial,13
+911,immune,1
+912,immune,2
+913,luminal epithelial 1,0
+914,proliferating epithelial,22
+915,GATA3+ epithelial,1
+916,immune,5
+917,PR+ epithelial,2
+918,immune,3
+919,basal epithelial 1,3
+920,immune,13
+921,luminal epithelial 3,1
+922,luminal epithelial 3,0
+923,stromal 3,7
+924,proliferating epithelial,8
+925,immune,13
+926,luminal epithelial 2,1
+927,luminal epithelial 1,3
+928,luminal epithelial 3,12
+929,immune,14
+930,basal epithelial 1,1
+931,GATA3+ epithelial,13
+932,t cells,2
+933,stromal 3,2
+934,epithelial,5
+935,GATA3+ epithelial,8
+936,GATA3+ epithelial,7
+937,luminal epithelial 3,13
+938,luminal epithelial 3,1
+939,apoptotic epithelial 1,5
+940,GATA3+ epithelial,3
+941,basal epithelial 1,1
+942,luminal epithelial 1,0
+943,apoptotic epithelial 1,13
+944,GATA3+ epithelial,1
+945,luminal epithelial 2,1
+946,luminal epithelial 1,0
+947,t cells,5
+948,GATA3+ epithelial,8
+949,stromal 1,2
+950,immune,1
+951,immune,3
+952,luminal epithelial 3,2
+953,immune,3
+954,luminal epithelial 1,0
+955,luminal epithelial 1,0
+956,GATA3+ epithelial,1
+957,luminal epithelial 3,0
+958,proliferating epithelial,0
+959,luminal epithelial 3,22
+960,t cells,3
+961,immune,1
+962,proliferating epithelial,0
+963,luminal epithelial 1,1
+964,luminal epithelial 3,3
+965,GATA3+ epithelial,13
+966,stromal 3,1
+967,luminal epithelial 3,2
+968,basal epithelial 1,1
+969,GATA3+ epithelial,3
+970,basal epithelial 1,1
+971,luminal epithelial 3,1
+972,immune,25
+973,immune,0
+974,luminal epithelial 3,0
+975,luminal epithelial 3,0
+976,immune,1
+977,luminal epithelial 2,3
+978,stromal 3,5
+979,immune,2
+980,immune,1
+981,luminal epithelial 3,1
+982,luminal epithelial 3,19
+983,proliferating epithelial,2
+984,proliferating epithelial,0
+985,luminal epithelial 3,1
+986,proliferating epithelial,2
+987,luminal epithelial 3,1
+988,luminal epithelial 1,14
+989,t cells,3
+990,luminal epithelial 3,22
+991,immune,1
+992,immune,3
+993,stromal 3,1
+994,GATA3+ epithelial,3
+995,luminal epithelial 3,0
+996,luminal epithelial 1,1
+997,stromal 3,5
+998,luminal epithelial 1,3
+999,t cells,0
+1000,immune,25
+1001,proliferating epithelial,0
+1002,stromal 3,2
+1003,luminal epithelial 3,3
+1004,basal epithelial 1,1
+1005,immune,2
+1006,immune,1
+1007,luminal epithelial 1,13
+1008,luminal epithelial 3,8
+1009,proliferating epithelial,0
+1010,luminal epithelial 3,1
+1011,proliferating epithelial,13
+1012,luminal epithelial 3,18
+1013,luminal epithelial 3,1
+1014,luminal epithelial 1,13
+1015,GATA3+ epithelial,0
+1016,GATA3+ epithelial,0
+1017,GATA3+ epithelial,22
+1018,stromal 3,0
+1019,GATA3+ epithelial,5
+1020,immune,3
+1021,proliferating epithelial,1
+1022,GATA3+ epithelial,11
+1023,luminal epithelial 3,0
+1024,luminal epithelial 3,1
+1025,GATA3+ epithelial,3
+1026,stromal 3,13
+1027,luminal epithelial 1,13
+1028,luminal epithelial 1,13
+1029,proliferating epithelial,13
+1030,b cells,2
+1031,GATA3+ epithelial,8
+1032,luminal epithelial 1,0
+1033,proliferating epithelial,0
+1034,luminal epithelial 1,13
+1035,epithelial,14
+1036,GATA3+ epithelial,3
+1037,luminal epithelial 3,0
+1038,stromal 1,1
+1039,luminal epithelial 2,1
+1040,luminal epithelial 3,1
+1041,GATA3+ epithelial,13
+1042,luminal epithelial 1,1
+1043,proliferating epithelial,0
+1044,GATA3+ epithelial,17
+1045,luminal epithelial 3,2
+1046,proliferating epithelial,14
+1047,GATA3+ epithelial,0
+1048,luminal epithelial 2,22
+1049,luminal epithelial 2,5
+1050,GATA3+ epithelial,13
+1051,stromal 3,4
+1052,hypoxic cells,0
+1053,apoptotic epithelial 1,1
+1054,stromal 3,3
+1055,luminal epithelial 3,3
+1056,immune,22
+1057,luminal epithelial 1,1
+1058,GATA3+ epithelial,3
+1059,luminal epithelial 1,2
+1060,luminal epithelial 2,4
+1061,GATA3+ epithelial,15
+1062,GATA3+ epithelial,0
+1063,GATA3+ epithelial,2
+1064,luminal epithelial 2,0
+1065,immune,13
+1066,luminal epithelial 1,0
+1067,proliferating epithelial,0
+1068,GATA3+ epithelial,0
+1069,GATA3+ epithelial,22
+1070,epithelial,14
+1071,luminal epithelial 3,2
+1072,immune,1
+1073,luminal epithelial 1,3
+1074,GATA3+ epithelial,12
+1075,GATA3+ epithelial,1
+1076,luminal epithelial 1,1
+1077,luminal epithelial 3,14
+1078,GATA3+ epithelial,14
+1079,luminal epithelial 2,17
+1080,luminal epithelial 3,0
+1081,luminal epithelial 3,1
+1082,luminal epithelial 1,13
+1083,luminal epithelial 1,13
+1084,immune,14
+1085,proliferating epithelial,0
+1086,hypoxic cells,8
+1087,GATA3+ epithelial,16
+1088,luminal epithelial 3,1
+1089,proliferating epithelial,19
+1090,luminal epithelial 3,0
+1091,epithelial,9
+1092,stromal 3,3
+1093,proliferating epithelial,2
+1094,proliferating epithelial,14
+1095,luminal epithelial 1,0
+1096,luminal epithelial 3,13
+1097,apoptotic epithelial 2,2
+1098,GATA3+ epithelial,3
+1099,luminal epithelial 1,17
+1100,apoptotic epithelial 1,2
+1101,luminal epithelial 2,16
+1102,luminal epithelial 1,7
+1103,luminal epithelial 1,1
+1104,GATA3+ epithelial,14
+1105,luminal epithelial 3,13
+1106,proliferating epithelial,13
+1107,luminal epithelial 3,0
+1108,proliferating epithelial,1
+1109,luminal epithelial 3,0
+1110,stromal 3,3
+1111,GATA3+ epithelial,14
+1112,proliferating epithelial,0
+1113,luminal epithelial 1,3
+1114,proliferating epithelial,22
+1115,luminal epithelial 2,13
+1116,luminal epithelial 1,0
+1117,luminal epithelial 1,2
+1118,GATA3+ epithelial,22
+1119,GATA3+ epithelial,1
+1120,GATA3+ epithelial,0
+1121,luminal epithelial 1,0
+1122,GATA3+ epithelial,0
+1123,luminal epithelial 3,1
+1124,GATA3+ epithelial,3
+1125,luminal epithelial 2,0
+1126,luminal epithelial 3,23
+1127,luminal epithelial 2,7
+1128,GATA3+ epithelial,1
+1129,luminal epithelial 1,1
+1130,epithelial,5
+1131,luminal epithelial 1,22
+1132,hypoxic cells,2
+1133,GATA3+ epithelial,13
+1134,stromal 3,1
+1135,GATA3+ epithelial,13
+1136,GATA3+ epithelial,3
+1137,immune,1
+1138,luminal epithelial 1,1
+1139,GATA3+ epithelial,0
+1140,hypoxic cells,1
+1141,GATA3+ epithelial,22
+1142,proliferating epithelial,1
+1143,proliferating epithelial,13
+1144,luminal epithelial 3,8
+1145,immune,3
+1146,proliferating epithelial,1
+1147,luminal epithelial 2,23
+1148,basal epithelial 1,1
+1149,proliferating epithelial,2
+1150,luminal epithelial 1,0
+1151,luminal epithelial 1,13
+1152,luminal epithelial 2,7
+1153,epithelial,13
+1154,luminal epithelial 3,1
+1155,luminal epithelial 1,1
+1156,luminal epithelial 1,3
+1157,basal epithelial 1,22
+1158,luminal epithelial 1,1
+1159,luminal epithelial 1,0
+1160,luminal epithelial 2,16
+1161,proliferating epithelial,0
+1162,basal epithelial 1,2
+1163,luminal epithelial 1,0
+1164,luminal epithelial 1,0
+1165,luminal epithelial 1,0
+1166,GATA3+ epithelial,0
+1167,PR+ epithelial,25
+1168,proliferating epithelial,2
+1169,stromal 1,1
+1170,GATA3+ epithelial,25
+1171,GATA3+ epithelial,0
+1172,luminal epithelial 2,1
+1173,immune,2
+1174,epithelial,13
+1175,luminal epithelial 1,3
+1176,GATA3+ epithelial,0
+1177,immune,3
+1178,luminal epithelial 2,16
+1179,GATA3+ epithelial,14
+1180,stromal 3,1
+1181,stromal 3,3
+1182,immune,3
+1183,luminal epithelial 1,14
+1184,luminal epithelial 1,5
+1185,proliferating epithelial,0
+1186,luminal epithelial 1,12
+1187,GATA3+ epithelial,1
+1188,GATA3+ epithelial,0
+1189,luminal epithelial 2,22
+1190,hypoxic cells,2
+1191,stromal 3,2
+1192,luminal epithelial 3,3
+1193,GATA3+ epithelial,3
+1194,luminal epithelial 1,1
+1195,luminal epithelial 3,1
+1196,GATA3+ epithelial,3
+1197,proliferating epithelial,14
+1198,GATA3+ epithelial,13
+1199,luminal epithelial 1,0
+1200,hypoxic cells,13
+1201,luminal epithelial 3,1
+1202,GATA3+ epithelial,0
+1203,luminal epithelial 1,13
+1204,apoptotic epithelial 2,0
+1205,GATA3+ epithelial,1
+1206,luminal epithelial 2,22
+1207,proliferating epithelial,0
+1208,luminal epithelial 2,4
+1209,GATA3+ epithelial,0
+1210,luminal epithelial 3,0
+1211,luminal epithelial 3,4
+1212,GATA3+ epithelial,3
+1213,luminal epithelial 1,13
+1214,luminal epithelial 2,0
+1215,luminal epithelial 1,13
+1216,hypoxic cells,1
+1217,luminal epithelial 1,13
+1218,basal epithelial 1,1
+1219,GATA3+ epithelial,1
+1220,GATA3+ epithelial,1
+1221,GATA3+ epithelial,22
+1222,GATA3+ epithelial,3
+1223,luminal epithelial 1,0
+1224,immune,3
+1225,apoptotic epithelial 2,9
+1226,epithelial,15
+1227,stromal 1,1
+1228,apoptotic epithelial 1,2
+1229,luminal epithelial 2,22
+1230,luminal epithelial 3,2
+1231,GATA3+ epithelial,18
+1232,luminal epithelial 1,13
+1233,luminal epithelial 1,0
+1234,basal epithelial 1,1
+1235,stromal 3,1
+1236,stromal 1,4
+1237,luminal epithelial 2,3
+1238,luminal epithelial 1,1
+1239,GATA3+ epithelial,0
+1240,apoptotic epithelial 2,14
+1241,luminal epithelial 1,2
+1242,epithelial,4
+1243,proliferating epithelial,11
+1244,proliferating epithelial,0
+1245,GATA3+ epithelial,2
+1246,luminal epithelial 3,2
+1247,GATA3+ epithelial,3
+1248,stromal 2,2
+1249,proliferating epithelial,0
+1250,GATA3+ epithelial,0
+1251,GATA3+ epithelial,3
+1252,GATA3+ epithelial,0
+1253,luminal epithelial 1,1
+1254,GATA3+ epithelial,15
+1255,epithelial,13
+1256,epithelial,4
+1257,GATA3+ epithelial,0
+1258,luminal epithelial 2,9
+1259,stromal 2,22
+1260,luminal epithelial 1,8
+1261,luminal epithelial 1,8
+1262,immune,22
+1263,luminal epithelial 3,2
+1264,immune,0
+1265,immune,1
+1266,luminal epithelial 2,22
+1267,luminal epithelial 1,8
+1268,luminal epithelial 3,1
+1269,luminal epithelial 2,11
+1270,proliferating epithelial,1
+1271,stromal 1,1
+1272,GATA3+ epithelial,0
+1273,proliferating epithelial,13
+1274,GATA3+ epithelial,1
+1275,GATA3+ epithelial,0
+1276,GATA3+ epithelial,1
+1277,luminal epithelial 1,8
+1278,proliferating epithelial,22
+1279,GATA3+ epithelial,0
+1280,GATA3+ epithelial,13
+1281,luminal epithelial 1,22
+1282,luminal epithelial 3,2
+1283,luminal epithelial 3,13
+1284,proliferating epithelial,0
+1285,epithelial,0
+1286,GATA3+ epithelial,3
+1287,epithelial,0
+1288,proliferating epithelial,0
+1289,luminal epithelial 3,13
+1290,luminal epithelial 1,7
+1291,stromal 2,2
+1292,luminal epithelial 1,14
+1293,epithelial,2
+1294,GATA3+ epithelial,0
+1295,GATA3+ epithelial,25
+1296,stromal 3,3
+1297,luminal epithelial 3,1
+1298,luminal epithelial 2,16
+1299,luminal epithelial 2,17
+1300,luminal epithelial 1,5
+1301,luminal epithelial 1,1
+1302,GATA3+ epithelial,13
+1303,epithelial,1
+1304,proliferating epithelial,1
+1305,luminal epithelial 1,0
+1306,luminal epithelial 3,14
+1307,luminal epithelial 2,11
+1308,GATA3+ epithelial,0
+1309,proliferating epithelial,0
+1310,luminal epithelial 3,0
+1311,luminal epithelial 3,16
+1312,apoptotic epithelial 1,0
+1313,PR+ epithelial,11
+1314,luminal epithelial 2,11
+1315,immune,16
+1316,GATA3+ epithelial,0
+1317,luminal epithelial 3,14
+1318,GATA3+ epithelial,12
+1319,luminal epithelial 2,0
+1320,luminal epithelial 2,22
+1321,GATA3+ epithelial,1
+1322,luminal epithelial 1,22
+1323,GATA3+ epithelial,0
+1324,epithelial,1
+1325,GATA3+ epithelial,5
+1326,GATA3+ epithelial,0
+1327,GATA3+ epithelial,0
+1328,GATA3+ epithelial,0
+1329,luminal epithelial 2,22
+1330,GATA3+ epithelial,2
+1331,luminal epithelial 3,12
+1332,GATA3+ epithelial,2
+1333,GATA3+ epithelial,2
+1334,stromal 3,0
+1335,stromal 1,1
+1336,proliferating epithelial,1
+1337,luminal epithelial 1,14
+1338,proliferating epithelial,13
+1339,GATA3+ epithelial,7
+1340,PR+ epithelial,22
+1341,GATA3+ epithelial,22
+1342,GATA3+ epithelial,22
+1343,luminal epithelial 3,3
+1344,proliferating epithelial,14
+1345,epithelial,2
+1346,proliferating epithelial,1
+1347,GATA3+ epithelial,0
+1348,proliferating epithelial,0
+1349,luminal epithelial 2,22
+1350,GATA3+ epithelial,2
+1351,proliferating epithelial,5
+1352,epithelial,22
+1353,luminal epithelial 2,22
+1354,GATA3+ epithelial,14
+1355,GATA3+ epithelial,11
+1356,epithelial,2
+1357,proliferating epithelial,4
+1358,t cells,13
+1359,GATA3+ epithelial,22
+1360,GATA3+ epithelial,0
+1361,stromal 3,1
+1362,luminal epithelial 1,2
+1363,GATA3+ epithelial,2
+1364,immune,3
+1365,basal epithelial 1,1
+1366,luminal epithelial 2,22
+1367,basal epithelial 1,16
+1368,epithelial,0
+1369,apoptotic epithelial 2,8
+1370,luminal epithelial 1,22
+1371,immune,22
+1372,luminal epithelial 3,8
+1373,proliferating epithelial,3
+1374,luminal epithelial 2,7
+1375,luminal epithelial 2,8
+1376,GATA3+ epithelial,1
+1377,luminal epithelial 2,4
+1378,GATA3+ epithelial,0
+1379,stromal 3,2
+1380,GATA3+ epithelial,5
+1381,GATA3+ epithelial,11
+1382,immune,14
+1383,GATA3+ epithelial,11
+1384,luminal epithelial 1,5
+1385,t cells,25
+1386,t cells,9
+1387,basal epithelial 1,1
+1388,stromal 3,3
+1389,immune,0
+1390,luminal epithelial 3,0
+1391,luminal epithelial 2,1
+1392,luminal epithelial 2,2
+1393,GATA3+ epithelial,3
+1394,GATA3+ epithelial,22
+1395,luminal epithelial 2,0
+1396,stromal 3,0
+1397,GATA3+ epithelial,3
+1398,GATA3+ epithelial,3
+1399,proliferating epithelial,7
+1400,immune,3
+1401,immune,1
+1402,luminal epithelial 3,13
+1403,luminal epithelial 1,10
+1404,luminal epithelial 1,2
+1405,stromal 3,3
+1406,luminal epithelial 2,15
+1407,proliferating epithelial,13
+1408,GATA3+ epithelial,3
+1409,proliferating epithelial,0
+1410,GATA3+ epithelial,5
+1411,proliferating epithelial,12
+1412,luminal epithelial 3,3
+1413,GATA3+ epithelial,14
+1414,GATA3+ epithelial,17
+1415,luminal epithelial 1,14
+1416,luminal epithelial 1,0
+1417,epithelial,1
+1418,GATA3+ epithelial,22
+1419,GATA3+ epithelial,18
+1420,luminal epithelial 3,2
+1421,luminal epithelial 3,0
+1422,epithelial,13
+1423,t cells,3
+1424,luminal epithelial 2,8
+1425,stromal 2,0
+1426,luminal epithelial 2,5
+1427,immune,2
+1428,luminal epithelial 2,13
+1429,epithelial,1
+1430,stromal 3,13
+1431,luminal epithelial 1,14
+1432,basal epithelial 1,1
+1433,GATA3+ epithelial,1
+1434,epithelial,12
+1435,GATA3+ epithelial,1
+1436,GATA3+ epithelial,0
+1437,GATA3+ epithelial,0
+1438,luminal epithelial 1,14
+1439,luminal epithelial 3,2
+1440,GATA3+ epithelial,12
+1441,luminal epithelial 2,16
+1442,GATA3+ epithelial,1
+1443,luminal epithelial 2,22
+1444,luminal epithelial 2,13
+1445,basal epithelial 1,25
+1446,stromal 1,3
+1447,luminal epithelial 2,7
+1448,luminal epithelial 1,0
+1449,epithelial,5
+1450,stromal 2,13
+1451,basal epithelial 1,2
+1452,luminal epithelial 3,22
+1453,luminal epithelial 1,7
+1454,luminal epithelial 2,13
+1455,luminal epithelial 1,22
+1456,GATA3+ epithelial,3
+1457,immune,5
+1458,luminal epithelial 3,5
+1459,epithelial,1
+1460,luminal epithelial 1,14
+1461,proliferating epithelial,0
+1462,GATA3+ epithelial,14
+1463,luminal epithelial 2,21
+1464,stromal 1,1
+1465,luminal epithelial 1,8
+1466,GATA3+ epithelial,2
+1467,stromal 3,3
+1468,luminal epithelial 2,22
+1469,GATA3+ epithelial,0
+1470,proliferating epithelial,13
+1471,GATA3+ epithelial,13
+1472,GATA3+ epithelial,2
+1473,luminal epithelial 2,19
+1474,GATA3+ epithelial,2
+1475,epithelial,8
+1476,luminal epithelial 2,7
+1477,GATA3+ epithelial,13
+1478,basal epithelial 1,16
+1479,immune,22
+1480,luminal epithelial 2,15
+1481,proliferating epithelial,25
+1482,epithelial,22
+1483,proliferating epithelial,13
+1484,PR+ epithelial,2
+1485,luminal epithelial 3,14
+1486,immune,3
+1487,GATA3+ epithelial,0
+1488,luminal epithelial 3,5
+1489,GATA3+ epithelial,7
+1490,GATA3+ epithelial,4
+1491,GATA3+ epithelial,2
+1492,luminal epithelial 1,14
+1493,luminal epithelial 3,13
+1494,luminal epithelial 2,8
+1495,luminal epithelial 2,22
+1496,GATA3+ epithelial,7
+1497,proliferating epithelial,0
+1498,epithelial,22
+1499,luminal epithelial 2,16
+1500,GATA3+ epithelial,1
+1501,GATA3+ epithelial,1
+1502,immune,16
+1503,proliferating epithelial,11
+1504,GATA3+ epithelial,0
+1505,GATA3+ epithelial,14
+1506,stromal 2,12
+1507,luminal epithelial 2,5
+1508,GATA3+ epithelial,0
+1509,luminal epithelial 2,4
+1510,GATA3+ epithelial,25
+1511,proliferating epithelial,2
+1512,proliferating epithelial,2
+1513,hypoxic cells,2
+1514,luminal epithelial 3,12
+1515,epithelial,7
+1516,stromal 3,22
+1517,GATA3+ epithelial,14
+1518,luminal epithelial 2,8
+1519,GATA3+ epithelial,13
+1520,GATA3+ epithelial,0
+1521,GATA3+ epithelial,22
+1522,proliferating epithelial,16
+1523,GATA3+ epithelial,0
+1524,fibroblasts,2
+1525,proliferating epithelial,22
+1526,luminal epithelial 1,0
+1527,luminal epithelial 3,13
+1528,GATA3+ epithelial,2
+1529,GATA3+ epithelial,7
+1530,immune,14
+1531,luminal epithelial 2,13
+1532,proliferating epithelial,13
+1533,luminal epithelial 3,5
+1534,GATA3+ epithelial,1
+1535,stromal 3,9
+1536,luminal epithelial 1,17
+1537,luminal epithelial 2,0
+1538,proliferating epithelial,13
+1539,GATA3+ epithelial,13
+1540,hypoxic cells,2
+1541,GATA3+ epithelial,2
+1542,stromal 1,3
+1543,GATA3+ epithelial,2
+1544,luminal epithelial 2,22
+1545,proliferating epithelial,13
+1546,GATA3+ epithelial,1
+1547,GATA3+ epithelial,22
+1548,proliferating epithelial,7
+1549,GATA3+ epithelial,17
+1550,GATA3+ epithelial,8
+1551,GATA3+ epithelial,0
+1552,luminal epithelial 2,1
+1553,GATA3+ epithelial,4
+1554,luminal epithelial 2,0
+1555,stromal 1,3
+1556,proliferating epithelial,7
+1557,GATA3+ epithelial,2
+1558,luminal epithelial 2,4
+1559,GATA3+ epithelial,21
+1560,stromal 1,5
+1561,stromal 3,7
+1562,epithelial,7
+1563,luminal epithelial 2,4
+1564,luminal epithelial 2,10
+1565,GATA3+ epithelial,2
+1566,epithelial,4
+1567,GATA3+ epithelial,3
+1568,epithelial,16
+1569,luminal epithelial 2,1
+1570,luminal epithelial 2,22
+1571,stromal 1,5
+1572,stromal 1,8
+1573,epithelial,2
+1574,GATA3+ epithelial,13
+1575,hypoxic cells,8
+1576,stromal 1,1
+1577,GATA3+ epithelial,0
+1578,hypoxic cells,4
+1579,proliferating epithelial,23
+1580,immune,5
+1581,luminal epithelial 2,7
+1582,luminal epithelial 2,3
+1583,GATA3+ epithelial,1
+1584,hypoxic cells,7
+1585,epithelial,5
+1586,immune,12
+1587,GATA3+ epithelial,0
+1588,stromal 1,7
+1589,proliferating epithelial,18
+1590,proliferating epithelial,1
+1591,epithelial,19
+1592,luminal epithelial 3,0
+1593,GATA3+ epithelial,0
+1594,stromal 1,16
+1595,luminal epithelial 2,8
+1596,luminal epithelial 2,1
+1597,luminal epithelial 3,1
+1598,GATA3+ epithelial,1
+1599,stromal 3,12
+1600,luminal epithelial 2,4
+1601,luminal epithelial 2,22
+1602,basal epithelial 1,21
+1603,GATA3+ epithelial,16
+1604,proliferating epithelial,8
+1605,proliferating epithelial,7
+1606,hypoxic cells,22
+1607,luminal epithelial 2,1
+1608,GATA3+ epithelial,0
+1609,apoptotic epithelial 1,22
+1610,luminal epithelial 2,7
+1611,epithelial,19
+1612,proliferating epithelial,0
+1613,GATA3+ epithelial,13
+1614,epithelial,15
+1615,epithelial,7
+1616,luminal epithelial 2,1
+1617,stromal 3,5
+1618,luminal epithelial 2,1
+1619,GATA3+ epithelial,8
+1620,epithelial,1
+1621,luminal epithelial 2,13
+1622,luminal epithelial 2,16
+1623,luminal epithelial 3,17
+1624,GATA3+ epithelial,0
+1625,luminal epithelial 2,1
+1626,luminal epithelial 2,0
+1627,luminal epithelial 2,14
+1628,luminal epithelial 2,16
+1629,basal epithelial 1,16
+1630,luminal epithelial 3,6
+1631,t cells,12
+1632,GATA3+ epithelial,22
+1633,luminal epithelial 2,1
+1634,proliferating epithelial,13
+1635,apoptotic epithelial 1,17
+1636,luminal epithelial 2,12
+1637,luminal epithelial 2,2
+1638,epithelial,16
+1639,stromal 1,2
+1640,GATA3+ epithelial,0
+1641,luminal epithelial 2,18
+1642,GATA3+ epithelial,2
+1643,fibroblasts,1
+1644,luminal epithelial 2,13
+1645,immune,0
+1646,GATA3+ epithelial,13
+1647,proliferating epithelial,22
+1648,luminal epithelial 2,13
+1649,GATA3+ epithelial,16
+1650,fibroblasts,9
+1651,luminal epithelial 2,16
+1652,stromal 3,8
+1653,stromal 1,11
+1654,luminal epithelial 2,16
+1655,luminal epithelial 3,11
+1656,GATA3+ epithelial,22
+1657,GATA3+ epithelial,22
+1658,luminal epithelial 2,14
+1659,luminal epithelial 2,7
+1660,epithelial,5
+1661,luminal epithelial 2,16
+1662,GATA3+ epithelial,22
+1663,proliferating epithelial,7
+1664,epithelial,14
+1665,t cells,22
+1666,luminal epithelial 2,8
+1667,epithelial,2
+1668,luminal epithelial 2,7
+1669,t cells,8
+1670,GATA3+ epithelial,8
+1671,luminal epithelial 2,7
+1672,apoptotic epithelial 1,0
+1673,GATA3+ epithelial,16
+1674,hypoxic cells,7
+1675,luminal epithelial 2,13
+1676,luminal epithelial 2,16
+1677,t cells,3
+1678,epithelial,7
+1679,GATA3+ epithelial,13
+1680,immune,2
+1681,t cells,14
+1682,luminal epithelial 2,22
+1683,proliferating epithelial,7
+1684,immune,2
+1685,stromal 3,0
+1686,luminal epithelial 2,8
+1687,epithelial,16
+1688,immune,0
+1689,proliferating epithelial,7
+1690,luminal epithelial 2,22
+1691,stromal 3,1
+1692,luminal epithelial 2,0
+1693,luminal epithelial 2,1
+1694,immune,5
+1695,luminal epithelial 2,8
+1696,luminal epithelial 2,1
+1697,t cells,2
