@@ -3,3 +3,5 @@
 *zarr/
 *.txt
 .ipynb_checkpoints/
+measurements.csv
+*.h5ad
