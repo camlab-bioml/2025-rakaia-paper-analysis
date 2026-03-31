@@ -5,3 +5,7 @@
 .ipynb_checkpoints/
 measurements.csv
 *.h5ad
+morphology_focus/
+*.zip
+gene_panel.json
+
