@@ -1,6 +1,6 @@
 # Extended Data Figure 1
 
-The two notebooks in this directory can be run to recreate recreate Extended Data Figure 1. They should be run in order:
+The two notebooks in this directory can be run to recreate recreate Extended Data Figure 1. They should be run in order. Instructions for the raw data to required for each step are found in the notebook; they can be accessed here: https://zenodo.org/records/20157957 :
 
 - `process_raw_xenium.ipynb`, to generate the Xenium data files required for the multimodal transformation and integration
 - `xenium_imc_multimodal_integration.ipynb`, to perform the integration of the Xenium data into the IMC resolution. 
